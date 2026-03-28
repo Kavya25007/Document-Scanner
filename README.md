@@ -55,11 +55,20 @@ Everything happens directly in your browser — no backend involved.
 
 ## 🖼️ Preview
 
-> *(Replace this with your actual screenshot)*
+### 🏠 Main Interface
 
-![App Screenshot](https://via.placeholder.com/900x500?text=DocuScan+UI)
+![Main UI](main.png)
 
----
+### 📤 Upload Section
+
+![Upload](upload.png)(uploading.png)
+(uploading.png)
+
+### 📊 Extracted Results
+
+![Results](./assets/results.png)
+
+--
 
 ## 🎯 Features
 
