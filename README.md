@@ -18,7 +18,7 @@ No backend • No frameworks • Clean and simple architecture
 
 <br>
 
-[🌐 Live Demo](https://github.com/Kavya25007/Document-Scanner) • [🐞 Report Issue](../../issues)
+[🌐 Live Demo](https://github.com/Kavya25007/DocScan) • [🐞 Report Issue](../../issues)
 
 </div>
 
