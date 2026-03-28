@@ -18,7 +18,7 @@ No backend • No frameworks • Clean and simple architecture
 
 <br>
 
-[🌐 Live Demo](https://your-live-demo-link.vercel.app/) • [🐞 Report Issue](../../issues)
+[🌐 Live Demo](https://github.com/Kavya25007/Document-Scanner) • [🐞 Report Issue](../../issues)
 
 </div>
 
