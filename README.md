@@ -1,7 +1,7 @@
 # Document-Scanner
 <div align="center">
 
-# 🔍 DocuScan
+# 🔍 DocScan
 
 ### Azure Document Intelligence — Frontend Web App
 
