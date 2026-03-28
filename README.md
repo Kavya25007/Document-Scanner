@@ -63,10 +63,11 @@ Everything happens directly in your browser — no backend involved.
 
 ![Upload](upload.png)
 
+![Uploading](uploading.png)
 
 ### 📊 Extracted Results
 
-![Results](./assets/results.png)
+![Results](results.png)
 
 --
 
