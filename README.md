@@ -69,7 +69,7 @@ Everything happens directly in your browser — no backend involved.
 
 ![Results](result.png)
 
---
+---
 
 ## 🎯 Features
 
