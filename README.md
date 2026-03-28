@@ -67,7 +67,7 @@ Everything happens directly in your browser — no backend involved.
 
 ### 📊 Extracted Results
 
-![Results](results.png)
+![Results](result.png)
 
 --
 
