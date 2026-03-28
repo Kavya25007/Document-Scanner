@@ -57,12 +57,12 @@ Everything happens directly in your browser — no backend involved.
 
 ### 🏠 Main Interface
 
-![Main UI](main.png)
+![Main UI](main-ui.png)
 
 ### 📤 Upload Section
 
-![Upload](upload.png)(uploading.png)
-(uploading.png)
+![Upload](upload.png)
+
 
 ### 📊 Extracted Results
 
